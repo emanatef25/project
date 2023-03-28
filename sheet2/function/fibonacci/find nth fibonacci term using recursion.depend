@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679962992 source:d:\zigzag\sheet2\function\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
